@@ -1,0 +1,353 @@
+{
+  "schema_version": 1,
+  "files": [
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2021/2021-Sample-ECON-Level1-C.pdf",
+      "year": 2021,
+      "role": "sample",
+      "pages": 24,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2021/2021-Sample-ECON-Level1A-C.pdf",
+      "year": 2021,
+      "role": "sample",
+      "pages": 23,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2021/2021-Sample-ECON-Level2-C.pdf",
+      "year": 2021,
+      "role": "sample",
+      "pages": 24,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2021/2021-Sample-ECON-Level2A-C.pdf",
+      "year": 2021,
+      "role": "sample",
+      "pages": 23,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2021/2021-Sample-ECON-Level3-C.pdf",
+      "year": 2021,
+      "role": "sample",
+      "pages": 24,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2021/2021-Sample-ECON-Level3A-C.pdf",
+      "year": 2021,
+      "role": "sample",
+      "pages": 23,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2021/2021-Sample-ECON-Level4-C.pdf",
+      "year": 2021,
+      "role": "sample",
+      "pages": 24,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2021/2021-Sample-ECON-Level4A-C.pdf",
+      "year": 2021,
+      "role": "sample",
+      "pages": 23,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2021/2021-Sample-ECON-Level5-C.pdf",
+      "year": 2021,
+      "role": "sample",
+      "pages": 24,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2021/2021-Sample-ECON-Level5A-C.pdf",
+      "year": 2021,
+      "role": "sample",
+      "pages": 23,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2021/2021ans.pdf",
+      "year": 2021,
+      "role": "marking-by-filename",
+      "pages": 13,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2021/2021p1.pdf",
+      "year": 2021,
+      "role": "paper-1",
+      "pages": 20,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2021/2021p2.pdf",
+      "year": 2021,
+      "role": "paper-2",
+      "pages": 24,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2021/2021per.pdf",
+      "year": 2021,
+      "role": "report-by-filename",
+      "pages": 7,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2022/2022-Sample-ECON-Level1-C.pdf",
+      "year": 2022,
+      "role": "sample",
+      "pages": 47,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2022/2022-Sample-ECON-Level2-C.pdf",
+      "year": 2022,
+      "role": "sample",
+      "pages": 47,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2022/2022-Sample-ECON-Level3-C.pdf",
+      "year": 2022,
+      "role": "sample",
+      "pages": 47,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2022/2022-Sample-ECON-Level4-C.pdf",
+      "year": 2022,
+      "role": "sample",
+      "pages": 47,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2022/2022-Sample-ECON-Level5-C.pdf",
+      "year": 2022,
+      "role": "sample",
+      "pages": 47,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2022/经济2022.pdf",
+      "year": 2022,
+      "role": "compendium",
+      "pages": 70,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2023/2023-Sample-ECON-Level1-C-6599.pdf",
+      "year": 2023,
+      "role": "sample",
+      "pages": 47,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2023/2023-Sample-ECON-Level2-C-6599.pdf",
+      "year": 2023,
+      "role": "sample",
+      "pages": 47,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2023/2023-Sample-ECON-Level3-C-6599.pdf",
+      "year": 2023,
+      "role": "sample",
+      "pages": 47,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2023/2023-Sample-ECON-Level4-C-6599.pdf",
+      "year": 2023,
+      "role": "sample",
+      "pages": 47,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2023/2023-Sample-ECON-Level5-C-6599.pdf",
+      "year": 2023,
+      "role": "sample",
+      "pages": 47,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2023/2023p1.pdf",
+      "year": 2023,
+      "role": "paper-1",
+      "pages": 20,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2023/2023p2.pdf",
+      "year": 2023,
+      "role": "paper-2",
+      "pages": 24,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2024/2024-Sample-ECON-Level1-C-128F.pdf",
+      "year": 2024,
+      "role": "sample",
+      "pages": 47,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2024/2024-Sample-ECON-Level2-C-128F.pdf",
+      "year": 2024,
+      "role": "sample",
+      "pages": 47,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2024/2024-Sample-ECON-Level3-C-128F.pdf",
+      "year": 2024,
+      "role": "sample",
+      "pages": 47,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2024/2024-Sample-ECON-Level4-C-128F.pdf",
+      "year": 2024,
+      "role": "sample",
+      "pages": 47,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2024/2024-Sample-ECON-Level5-C-128F.pdf",
+      "year": 2024,
+      "role": "sample",
+      "pages": 47,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2024/econ-Erratum2024.pdf",
+      "year": 2024,
+      "role": "erratum",
+      "pages": 1,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2024/經濟 2024試題專輯.pdf",
+      "year": 2024,
+      "role": "compendium",
+      "pages": 68,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2025/2025 Bafs E.pdf",
+      "year": 2025,
+      "role": "unverified",
+      "pages": 62,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2025/2025 MS+CP.pdf",
+      "year": 2025,
+      "role": "marking-and-report",
+      "pages": 21,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2025/2025 P1.pdf",
+      "year": 2025,
+      "role": "paper-1",
+      "pages": 19,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2025/2025 P2.pdf",
+      "year": 2025,
+      "role": "paper-2",
+      "pages": 16,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2025/2025-Sample-ECON-Level1-C-B147.pdf",
+      "year": 2025,
+      "role": "sample",
+      "pages": 55,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2025/2025-Sample-ECON-Level2-C-B147.pdf",
+      "year": 2025,
+      "role": "sample",
+      "pages": 55,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2025/2025-Sample-ECON-Level3-C-B147.pdf",
+      "year": 2025,
+      "role": "sample",
+      "pages": 55,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2025/2025-Sample-ECON-Level4-C-B147.pdf",
+      "year": 2025,
+      "role": "sample",
+      "pages": 55,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "dse經濟真题/經濟真题-DSE (中)/2025/2025-Sample-ECON-Level5-C-B147.pdf",
+      "year": 2025,
+      "role": "sample",
+      "pages": 55,
+      "verification": "inventory; selected pages inspected only"
+    },
+    {
+      "path": "经济学教材/经济学探索1需求与供应第三版-272P--216X276.pdf",
+      "role": "textbook",
+      "pages": 271,
+      "verification": "contents and selected pages inspected; no full OCR"
+    },
+    {
+      "path": "经济学教材/经济学探索2厂商与生产第三版-236P--216X276.pdf",
+      "role": "textbook",
+      "pages": 235,
+      "verification": "contents and selected pages inspected; no full OCR"
+    },
+    {
+      "path": "经济学教材/经济学探索3效率与公平第三版-180P--216X276.pdf",
+      "role": "textbook",
+      "pages": 179,
+      "verification": "contents and selected pages inspected; no full OCR"
+    },
+    {
+      "path": "经济学教材/经济学探索4垄断与竞争政策第三版-84P--216X276.pdf",
+      "role": "textbook",
+      "pages": 83,
+      "verification": "contents and selected pages inspected; no full OCR"
+    },
+    {
+      "path": "经济学教材/经济学探索5国民收入与物价水平第三版-220P--216X276.pdf",
+      "role": "textbook",
+      "pages": 219,
+      "verification": "contents and selected pages inspected; no full OCR"
+    },
+    {
+      "path": "经济学教材/经济学探索6货币与贸易第三版-266P--216X276.pdf",
+      "role": "textbook",
+      "pages": 265,
+      "verification": "contents and selected pages inspected; no full OCR"
+    },
+    {
+      "path": "经济学教材/经济学探索7经济增长与发展第二版-86P--216X276.pdf",
+      "role": "textbook",
+      "pages": 85,
+      "verification": "contents and selected pages inspected; no full OCR"
+    }
+  ],
+  "known_content_gaps": [
+    "2023 marking scheme not found in indexed directory",
+    "No complete official per-question marks established for exemplar scripts",
+    "Textbooks are scanned; no full-text verified OCR corpus"
+  ]
+}

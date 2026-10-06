@@ -1,0 +1,560 @@
+{
+  "subject": "HKDSE Economics",
+  "source_url": "https://x.dse00.com/cutoff/business",
+  "source_name": "DSE00",
+  "source_type": "third-party student-contributed compilation",
+  "source_updated": "2026-09-29",
+  "retrieved": "2026-10-01",
+  "source_html_sha256": "98dc3cb92697dffc2478767f971b6b79fcde14f09fa955993ed4b8f4be906576",
+  "score_scale_verified": false,
+  "missing_levels": [
+    "1"
+  ],
+  "notes": [
+    "Source full mark is transcribed literally; raw/weighted/standardized score mapping is not explained.",
+    "Displayed integer percentages are rounded by source; do not treat them as exact boundaries.",
+    "Estimated flag preserves source approximate symbol; unflagged values are still unofficial."
+  ],
+  "years": [
+    {
+      "year": 2026,
+      "source_full_mark": 179,
+      "thresholds": {
+        "5**": {
+          "source_score": 167,
+          "displayed_percent": 93,
+          "source_estimated": false
+        },
+        "5*": {
+          "source_score": 156,
+          "displayed_percent": 87,
+          "source_estimated": false
+        },
+        "5": {
+          "source_score": 142,
+          "displayed_percent": 79,
+          "source_estimated": false
+        },
+        "4": {
+          "source_score": 109,
+          "displayed_percent": 61,
+          "source_estimated": false
+        },
+        "3": {
+          "source_score": 85,
+          "displayed_percent": 47,
+          "source_estimated": false
+        },
+        "2": {
+          "source_score": 68,
+          "displayed_percent": 38,
+          "source_estimated": false
+        }
+      }
+    },
+    {
+      "year": 2025,
+      "source_full_mark": 187,
+      "thresholds": {
+        "5**": {
+          "source_score": 168,
+          "displayed_percent": 90,
+          "source_estimated": false
+        },
+        "5*": {
+          "source_score": 161,
+          "displayed_percent": 86,
+          "source_estimated": false
+        },
+        "5": {
+          "source_score": 142,
+          "displayed_percent": 76,
+          "source_estimated": false
+        },
+        "4": {
+          "source_score": 109,
+          "displayed_percent": 58,
+          "source_estimated": false
+        },
+        "3": {
+          "source_score": 100,
+          "displayed_percent": 53,
+          "source_estimated": false
+        },
+        "2": {
+          "source_score": 73,
+          "displayed_percent": 39,
+          "source_estimated": true
+        }
+      }
+    },
+    {
+      "year": 2024,
+      "source_full_mark": 180,
+      "thresholds": {
+        "5**": {
+          "source_score": 168,
+          "displayed_percent": 93,
+          "source_estimated": false
+        },
+        "5*": {
+          "source_score": 157,
+          "displayed_percent": 87,
+          "source_estimated": false
+        },
+        "5": {
+          "source_score": 141,
+          "displayed_percent": 78,
+          "source_estimated": false
+        },
+        "4": {
+          "source_score": 108,
+          "displayed_percent": 60,
+          "source_estimated": false
+        },
+        "3": {
+          "source_score": 94,
+          "displayed_percent": 52,
+          "source_estimated": false
+        },
+        "2": {
+          "source_score": 68,
+          "displayed_percent": 38,
+          "source_estimated": true
+        }
+      }
+    },
+    {
+      "year": 2023,
+      "source_full_mark": 171,
+      "thresholds": {
+        "5**": {
+          "source_score": 162,
+          "displayed_percent": 95,
+          "source_estimated": false
+        },
+        "5*": {
+          "source_score": 154,
+          "displayed_percent": 90,
+          "source_estimated": false
+        },
+        "5": {
+          "source_score": 144,
+          "displayed_percent": 84,
+          "source_estimated": false
+        },
+        "4": {
+          "source_score": 111,
+          "displayed_percent": 65,
+          "source_estimated": false
+        },
+        "3": {
+          "source_score": 96,
+          "displayed_percent": 56,
+          "source_estimated": true
+        },
+        "2": {
+          "source_score": 70,
+          "displayed_percent": 41,
+          "source_estimated": true
+        }
+      }
+    },
+    {
+      "year": 2022,
+      "source_full_mark": 166,
+      "thresholds": {
+        "5**": {
+          "source_score": 158,
+          "displayed_percent": 95,
+          "source_estimated": false
+        },
+        "5*": {
+          "source_score": 152,
+          "displayed_percent": 92,
+          "source_estimated": false
+        },
+        "5": {
+          "source_score": 144,
+          "displayed_percent": 87,
+          "source_estimated": false
+        },
+        "4": {
+          "source_score": 121,
+          "displayed_percent": 73,
+          "source_estimated": false
+        },
+        "3": {
+          "source_score": 104,
+          "displayed_percent": 63,
+          "source_estimated": false
+        },
+        "2": {
+          "source_score": 75,
+          "displayed_percent": 45,
+          "source_estimated": true
+        }
+      }
+    },
+    {
+      "year": 2021,
+      "source_full_mark": 178,
+      "thresholds": {
+        "5**": {
+          "source_score": 164,
+          "displayed_percent": 92,
+          "source_estimated": false
+        },
+        "5*": {
+          "source_score": 160,
+          "displayed_percent": 90,
+          "source_estimated": false
+        },
+        "5": {
+          "source_score": 143,
+          "displayed_percent": 80,
+          "source_estimated": false
+        },
+        "4": {
+          "source_score": 133,
+          "displayed_percent": 75,
+          "source_estimated": false
+        },
+        "3": {
+          "source_score": 105,
+          "displayed_percent": 59,
+          "source_estimated": false
+        },
+        "2": {
+          "source_score": 77,
+          "displayed_percent": 43,
+          "source_estimated": false
+        }
+      }
+    },
+    {
+      "year": 2020,
+      "source_full_mark": 174,
+      "thresholds": {
+        "5**": {
+          "source_score": 162,
+          "displayed_percent": 93,
+          "source_estimated": false
+        },
+        "5*": {
+          "source_score": 155,
+          "displayed_percent": 89,
+          "source_estimated": false
+        },
+        "5": {
+          "source_score": 143,
+          "displayed_percent": 82,
+          "source_estimated": false
+        },
+        "4": {
+          "source_score": 119,
+          "displayed_percent": 68,
+          "source_estimated": false
+        },
+        "3": {
+          "source_score": 104,
+          "displayed_percent": 60,
+          "source_estimated": false
+        },
+        "2": {
+          "source_score": 75,
+          "displayed_percent": 43,
+          "source_estimated": false
+        }
+      }
+    },
+    {
+      "year": 2019,
+      "source_full_mark": 182,
+      "thresholds": {
+        "5**": {
+          "source_score": 165,
+          "displayed_percent": 91,
+          "source_estimated": false
+        },
+        "5*": {
+          "source_score": 156,
+          "displayed_percent": 86,
+          "source_estimated": false
+        },
+        "5": {
+          "source_score": 143,
+          "displayed_percent": 79,
+          "source_estimated": false
+        },
+        "4": {
+          "source_score": 118,
+          "displayed_percent": 65,
+          "source_estimated": false
+        },
+        "3": {
+          "source_score": 104,
+          "displayed_percent": 57,
+          "source_estimated": false
+        },
+        "2": {
+          "source_score": 75,
+          "displayed_percent": 41,
+          "source_estimated": false
+        }
+      }
+    },
+    {
+      "year": 2018,
+      "source_full_mark": 183,
+      "thresholds": {
+        "5**": {
+          "source_score": 167,
+          "displayed_percent": 91,
+          "source_estimated": false
+        },
+        "5*": {
+          "source_score": 158,
+          "displayed_percent": 86,
+          "source_estimated": false
+        },
+        "5": {
+          "source_score": 145,
+          "displayed_percent": 79,
+          "source_estimated": false
+        },
+        "4": {
+          "source_score": 119,
+          "displayed_percent": 65,
+          "source_estimated": false
+        },
+        "3": {
+          "source_score": 108,
+          "displayed_percent": 59,
+          "source_estimated": false
+        },
+        "2": {
+          "source_score": 75,
+          "displayed_percent": 41,
+          "source_estimated": false
+        }
+      }
+    },
+    {
+      "year": 2017,
+      "source_full_mark": 180,
+      "thresholds": {
+        "5**": {
+          "source_score": 166,
+          "displayed_percent": 92,
+          "source_estimated": false
+        },
+        "5*": {
+          "source_score": 158,
+          "displayed_percent": 88,
+          "source_estimated": false
+        },
+        "5": {
+          "source_score": 150,
+          "displayed_percent": 83,
+          "source_estimated": false
+        },
+        "4": {
+          "source_score": 126,
+          "displayed_percent": 70,
+          "source_estimated": false
+        },
+        "3": {
+          "source_score": 108,
+          "displayed_percent": 60,
+          "source_estimated": false
+        },
+        "2": {
+          "source_score": 76,
+          "displayed_percent": 42,
+          "source_estimated": false
+        }
+      }
+    },
+    {
+      "year": 2016,
+      "source_full_mark": 182,
+      "thresholds": {
+        "5**": {
+          "source_score": 166,
+          "displayed_percent": 91,
+          "source_estimated": false
+        },
+        "5*": {
+          "source_score": 160,
+          "displayed_percent": 88,
+          "source_estimated": false
+        },
+        "5": {
+          "source_score": 144,
+          "displayed_percent": 79,
+          "source_estimated": false
+        },
+        "4": {
+          "source_score": 117,
+          "displayed_percent": 64,
+          "source_estimated": false
+        },
+        "3": {
+          "source_score": 104,
+          "displayed_percent": 57,
+          "source_estimated": false
+        },
+        "2": {
+          "source_score": 71,
+          "displayed_percent": 39,
+          "source_estimated": false
+        }
+      }
+    },
+    {
+      "year": 2015,
+      "source_full_mark": 187,
+      "thresholds": {
+        "5**": {
+          "source_score": 170,
+          "displayed_percent": 91,
+          "source_estimated": false
+        },
+        "5*": {
+          "source_score": 165,
+          "displayed_percent": 88,
+          "source_estimated": false
+        },
+        "5": {
+          "source_score": 151,
+          "displayed_percent": 81,
+          "source_estimated": false
+        },
+        "4": {
+          "source_score": 122,
+          "displayed_percent": 65,
+          "source_estimated": false
+        },
+        "3": {
+          "source_score": 108,
+          "displayed_percent": 58,
+          "source_estimated": false
+        },
+        "2": {
+          "source_score": 75,
+          "displayed_percent": 40,
+          "source_estimated": false
+        }
+      }
+    },
+    {
+      "year": 2014,
+      "source_full_mark": 176,
+      "thresholds": {
+        "5**": {
+          "source_score": 164,
+          "displayed_percent": 93,
+          "source_estimated": false
+        },
+        "5*": {
+          "source_score": 157,
+          "displayed_percent": 89,
+          "source_estimated": false
+        },
+        "5": {
+          "source_score": 145,
+          "displayed_percent": 82,
+          "source_estimated": false
+        },
+        "4": {
+          "source_score": 116,
+          "displayed_percent": 66,
+          "source_estimated": false
+        },
+        "3": {
+          "source_score": 115,
+          "displayed_percent": 65,
+          "source_estimated": false
+        },
+        "2": {
+          "source_score": 77,
+          "displayed_percent": 44,
+          "source_estimated": false
+        }
+      }
+    },
+    {
+      "year": 2013,
+      "source_full_mark": 191,
+      "thresholds": {
+        "5**": {
+          "source_score": 171,
+          "displayed_percent": 90,
+          "source_estimated": false
+        },
+        "5*": {
+          "source_score": 159,
+          "displayed_percent": 83,
+          "source_estimated": false
+        },
+        "5": {
+          "source_score": 149,
+          "displayed_percent": 78,
+          "source_estimated": false
+        },
+        "4": {
+          "source_score": 130,
+          "displayed_percent": 68,
+          "source_estimated": false
+        },
+        "3": {
+          "source_score": 106,
+          "displayed_percent": 55,
+          "source_estimated": false
+        },
+        "2": {
+          "source_score": 72,
+          "displayed_percent": 38,
+          "source_estimated": false
+        }
+      }
+    },
+    {
+      "year": 2012,
+      "source_full_mark": 179,
+      "thresholds": {
+        "5**": {
+          "source_score": 167,
+          "displayed_percent": 93,
+          "source_estimated": false
+        },
+        "5*": {
+          "source_score": 160,
+          "displayed_percent": 89,
+          "source_estimated": false
+        },
+        "5": {
+          "source_score": 151,
+          "displayed_percent": 84,
+          "source_estimated": false
+        },
+        "4": {
+          "source_score": 128,
+          "displayed_percent": 72,
+          "source_estimated": false
+        },
+        "3": {
+          "source_score": 114,
+          "displayed_percent": 64,
+          "source_estimated": true
+        },
+        "2": {
+          "source_score": 78,
+          "displayed_percent": 44,
+          "source_estimated": true
+        }
+      }
+    }
+  ]
+}

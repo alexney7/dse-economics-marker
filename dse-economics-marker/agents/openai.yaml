@@ -1,0 +1,4 @@
+interface:
+  display_name: "DSE 經濟閱卷"
+  short_description: "依評分參考批改中文經濟卷，提供逐點依據、教師復核及參考等級"
+  default_prompt: "使用 $dse-economics-marker 批改這份經濟中文答卷，列出逐點建議分、改進方法及待教師確認事項。"
