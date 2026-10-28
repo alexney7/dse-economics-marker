@@ -2,6 +2,8 @@
 
 ## 本地資料
 
+新增來源 `PowerPoint-ECON-2026.pdf`（56 頁）：按本次附件／使用者指定路徑讀取；[摘要、SHA-256 及頁碼索引](exam-briefing-2026.md) 可獨立使用。它提供 2026 表現回顧及 2027 安排，未補齊 2026 全套試卷及評分參考。
+
 根目錄是使用者提供的「经济」資料夾，不在公開套件內。搜尋順序：本次附件／指定路徑 → `ECON_MARKER_LIBRARY` → skill 內的 `library.local.json`。使用 `scripts/check_library.py` 檢查現有索引；新資料可以直接指定，不必先修改索引。
 
 [library-index.json](library-index.json) 記錄 2021–2025 年已找到的檔案及七册教材，路徑相對根目錄。`role` 是路由資訊；標為 `unverified` 或僅按檔名識別的文件，使用前先查看科目、年份及內頁。
